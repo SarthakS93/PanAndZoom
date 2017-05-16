@@ -1,4 +1,4 @@
-package com.example.aman.panexample;
+package com.example.sarthak.panexample;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;

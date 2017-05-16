@@ -1,4 +1,4 @@
-package com.example.aman.panexample;
+package com.example.sarthak.panexample;
 
 import android.content.Context;
 import android.content.res.Resources;
